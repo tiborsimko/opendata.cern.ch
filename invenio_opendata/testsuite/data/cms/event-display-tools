@@ -22,7 +22,7 @@
       <subfield code="a">Software to extract the data for the browser-based event display for the CMS experiment</subfield>
     </datafield>
     <datafield tag="538" ind1=" " ind2=" ">
-      <subfield code="a">CMSSW 4 2 8 software with the CMS open data VM environemnt</subfield>
+      <subfield code="a">CMSSW_4_2_8 software with the CMS open data VM environemnt</subfield>
       <subfield code="w">250</subfield>
     </datafield>
     <datafield tag="567" ind1=" " ind2=" ">
@@ -42,8 +42,8 @@
       <subfield code="a">The output are files in json format</subfield>
     </datafield>
     <datafield tag="856" ind1="4" ind2=" ">
-      <subfield code="a">https://github.com/cms-outreach/ispy-analyzers/tree/Run2010B</subfield>
-      <subfield code="a">https://github.com/cms-outreach/ispy-services</subfield>
+      <subfield code="u">https://github.com/cms-outreach/ispy-analyzers/tree/Run2010B</subfield>
+      <subfield code="u">https://github.com/cms-outreach/ispy-services</subfield>
     </datafield>
     <datafield tag="980" ind1=" " ind2=" ">
       <subfield code="a">CMSTOOL</subfield>
